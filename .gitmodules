@@ -1,0 +1,6 @@
+[submodule "NO_FEAR_BACKEND"]
+	path = NO_FEAR_BACKEND
+	url = https://github.com/RaselHossen0/NO_FEAR_BACKEND.git
+[submodule "No_Fear"]
+	path = No_Fear
+	url = https://github.com/diptomistry/No_Fear.git
